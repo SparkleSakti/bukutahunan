@@ -1,17 +1,55 @@
-JADWAL FOTO KELOMPOK
+INFO BUKU TAHUNAN SMANTRI TRIASTARA
 </br>
-<a href="https://raw.githubusercontent.com/SparkleSakti/bukutahunan/main/Jadwal%20Foto%20Kelompok.txt">Jadwal Foto</a>
 </br>
-*BTS TRIASTARA 43*
-</br> </br>
-*LOKASI FOTO
-</br>
-</br>Mipa 1 :
-</br>Mipa 2 : 
-</br>Mipa 3 : 
-</br>Mipa 4 : 
-</br>Mipa 5 : Situ Party
-</br>Mipa 6 :
-</br>Mipa 7 :
-</br>Ips 1 : Kinol Bistro
-</br>Ips 2 :
+</br>     TIMELINE FOTO SMAN3 PADANG</br></br>
+SABTU 25 FEB, TIM-A
+</br></br>
+JAM 08.00-11.00. KELAS 12 MIPA 3
+
+JAM 13.00-16.00. KELAS 12 MIPA 5
+
+JAM 17.00-19.00. KELAS 12 IPS 2
+
+
+</br>SABTU 25 FEB, TIM-B</br>
+
+JAM 08.00-11.00. KELAS 12 MIPA 7
+
+JAM 13.00-16.00. KELAS 12 MIPA 4
+
+
+</br>MINGGU 26 FEB, TIM-A</br>
+
+JAM 09.00-12.00. KELAS XX
+
+JAM 13.30-16.30. KELAS 12 IPS 1
+
+
+</br>MINGGU 26 FEB, TIM-B</br>
+
+JAM 09.00-12.00. KELAS XX
+
+JAM 13.30-16.30. KELAS XX
+
+
+
+
+</br></br>     LOKASI FOTO</br></br>
+
+Mipa 1 :
+
+Mipa 2 : 
+
+Mipa 3 : 
+
+Mipa 4 : 
+
+Mipa 5 : Situ Party
+
+Mipa 6 :
+
+Mipa 7 :
+
+Ips 1 : Kinol Bistro
+
+Ips 2 :
